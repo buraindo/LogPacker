@@ -1,6 +1,6 @@
 # LogPacker
 
-This is a program that archives logs/random binary data. It uses custom algorithm to prepare data for compressing and then <a href=gzip.org>GZip</a> (.NET standard compression algorithm).
+This is a program that archives logs/random binary data. It uses custom algorithm to prepare data for compressing and then <a href=https://www.gzip.org>GZip</a> (.NET standard compression algorithm).
 
 ### Sample input
 ```
